@@ -1,5 +1,7 @@
-HR Analytics Dashboard: Unveil Attrition Drivers and Optimize Retention
+HR Analytics Dashboard: Unveil Attrition Drivers and Optimize Retention.
+
 Objective was to create a dashboard where we can insights by which Attrition rate can be reduced.
+
 This dynamic HR Analytics Dashboard empowers HR professionals to proactively manage attrition and cultivate a thriving workforce.
 Created multiples KPIs and DAX formulas.
 Used different type of charts like Donut, Area, Stacked, Treemap, Slicers and Matrix.
