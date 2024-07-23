@@ -9,7 +9,11 @@ Used different type of charts like Donut, Area, Stacked, Treemap, Slicers and Ma
 My analysis revealed is as below.
 
 Education: The majority of departing employees came from a Life Science educational background (e.g., biology, chemistry).
+
 Age: Employees between 26 and 35 years old are leaving at a significantly higher rate than other age groups.
+
 Salary: Many exiting employees earned salaries below $5,000 (or your equivalent currency).
+
 Job Role: Laboratory technicians are disproportionately represented among those leaving the company.
+
 Tenure: A high percentage of employees are leaving within their first year.
